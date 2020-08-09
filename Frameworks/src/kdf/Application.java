@@ -20,6 +20,7 @@ public class Application {
 				mtd.openBrowser();
 				break;
 			case "maxBrowser":
+				//Modifying the code for R2.1
 				mtd.maximizeBrowserWindow();
 				break;
 			case "impWait":
